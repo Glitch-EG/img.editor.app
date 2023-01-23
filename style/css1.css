@@ -53,6 +53,7 @@ li {
   top: 5px;
   left: 15px;
   transition: 0.5s;
+  margin-top: 5px;
 }
 
 #b2 {
@@ -67,6 +68,8 @@ li {
   top: 5px;
   left: 55.2px;
   transition: 0.5s;
+  margin-top: 5px;
+
 }
 
 #b1:hover {
@@ -178,29 +181,16 @@ font-size: 21px;
   font-size: 14px;
 }
   #b1 {
-    font-size: 13.5px;
-    border-radius: 66px 0px 0px 66px;
-    width: 28px;
-    outline: none;
-    background-color: #c5c5c5;
-    border: 2px #8a8a8a solid;
-    position: fixed;
+    font-size: 15.5px;
+    width: 36px;
     top: 5px;
     left: 15px;
-    transition: 0.5s;
   }
 
   #b2 {
-    font-size: 13.6px;
-    border-radius: 0px 66px 66px 0px;
-    width: 25.5px;
-    outline: none;
-    background-color: #f1f1f1;
-    border: 2px #8a8a8a solid;
-    border-left: none;
-    position: fixed;
+    font-size: 15.5px;
+    width: 33.5px;
     top: 5px;
-    left: 43px;
-    transition: 0.5s;
+    left: 51px;
   }
 }
